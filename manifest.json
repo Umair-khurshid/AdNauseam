@@ -3,8 +3,7 @@
   "key": "ilkggpgmkemaniponkfgnkonpajankkm",
   "author": "Daniel C. Howe",
   "background": {
-    "page": "background.html",
-    "persistent":true
+    "service_worker": "background.js",
   },
   "browser_action": {
     "default_icon": {
